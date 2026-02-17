@@ -1,0 +1,8 @@
+{
+  "name": "Ollama Share & Connect Guide",
+  "description": "A comprehensive guide and interactive tool for sharing locally installed Ollama models with other applications via API and configuration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
